@@ -32,8 +32,5 @@ while True:
 		sums.append(current_sum)
 		print(sums)
 		sums.sort()
-		print(sums)
-		print(sums[-3:])
-		print(sum(sums[-3:]))
 		break
 #force EOF w/ctrl+d
